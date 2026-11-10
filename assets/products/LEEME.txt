@@ -1,0 +1,2 @@
+Coloca aquí las fotos oficiales de los productos con los nombres listados en README.md (sección "Product photos").
+Put the official product photos here using the file names listed in README.md.
